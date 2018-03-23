@@ -1,0 +1,6 @@
+sha3iuf-try-out/Debug/
+sha3iuf-try-out/Release/
+*.opensdf
+*.sdf
+*.suo
+*.vcxproj.filters
